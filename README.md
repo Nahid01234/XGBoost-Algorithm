@@ -1,1 +1,1 @@
-# XGBoost-Algorithm
+# XGBoost Algorithm
